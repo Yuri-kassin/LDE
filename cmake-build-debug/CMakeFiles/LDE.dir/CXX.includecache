@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yoru/Desktop/Estrutura de dados/LDE/LDE.hpp
+iostream
+-
+No.hpp
+/home/yoru/Desktop/Estrutura de dados/LDE/No.hpp
+
+/home/yoru/Desktop/Estrutura de dados/LDE/No.hpp
+iostream
+-
+
+/home/yoru/Desktop/Estrutura de dados/LDE/main.cpp
+iostream
+-
+LDE.hpp
+/home/yoru/Desktop/Estrutura de dados/LDE/LDE.hpp
+No.hpp
+/home/yoru/Desktop/Estrutura de dados/LDE/No.hpp
+
